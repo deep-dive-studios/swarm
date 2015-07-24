@@ -1,0 +1,7 @@
+[package]
+authors = ["Ivan Dmitrievsky <ivan.dmitrievsky@gmail.com>"]
+name = "swarm"
+version = "0.0.1"
+
+[dependencies]
+piston_window = "*"
