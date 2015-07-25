@@ -2,6 +2,7 @@
 name = "swarm"
 version = "0.0.1"
 dependencies = [
+ "attempt 0.1.1-dev (git+https://github.com/deep-dive-studios/rust-attempt)",
  "piston_window 0.11.0 (registry+https://github.com/rust-lang/crates.io-index)",
 ]
 
@@ -18,6 +19,11 @@ dependencies = [
 name = "android_glue"
 version = "0.0.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
+
+[[package]]
+name = "attempt"
+version = "0.1.1-dev"
+source = "git+https://github.com/deep-dive-studios/rust-attempt#59b0c1d10fb373c58c51b1c94929da5695bd2c06"
 
 [[package]]
 name = "bitflags"
