@@ -4,7 +4,7 @@ This is a game about managing your own city.
 
 ## Motivation
 
-Rust learning and game developmant are fun!
+Rust learning and game development are fun!
 
 ## Usage
 
